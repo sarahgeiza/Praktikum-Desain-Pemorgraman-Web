@@ -1,0 +1,1 @@
+| 6 | Kebocoran Pesan Error | Pesan error database ditampilkan langsung kepada pengguna dan dapat memperlihatkan detail koneksi/server | Detail error dicatat menggunakan `error_log()`, sedangkan pengguna hanya melihat pesan umum |
